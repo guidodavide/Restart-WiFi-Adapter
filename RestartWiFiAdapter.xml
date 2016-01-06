@@ -41,7 +41,7 @@
   <Actions Context="Author">
     <Exec>
       <Command>cmd.exe</Command>
-      <Arguments>/c "netsh interface set interface WiFi DISABLED &amp; netsh interface set interface WiFi ENABLED"</Arguments>
+      <Arguments>/c "netsh interface set interface Wi-Fi DISABLED &amp; netsh interface set interface Wi-Fi ENABLED"</Arguments>
     </Exec>
   </Actions>
 </Task>
